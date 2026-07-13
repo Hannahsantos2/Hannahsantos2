@@ -1,7 +1,5 @@
 # Hi, I'm Hannah Santos
 
-# Hi, I'm Hannah Santos 👋
-
 I’m a Business Analytics & Information Systems student at the University of South Florida. I’m interested in data analytics, process improvement, and finding practical ways to help people and organizations work more effectively.
 
 ## About Me
